@@ -11,6 +11,8 @@
 
 #Given a and b, determine their respective comparison points.
 
+
+# Python Solution 1
 import math
 import os
 import random
